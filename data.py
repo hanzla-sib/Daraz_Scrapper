@@ -31,7 +31,7 @@ cursor.execute('''CREATE TABLE IF NOT EXISTS latest_data
                   price VARCHAR(255),
                   timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP)''')
 
-# Set the path to the chromedriver executable
+# Set the path to the chromedriver exe
 chromedriver_path = 'path_to_chromedriver'
 
 
