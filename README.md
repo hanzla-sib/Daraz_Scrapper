@@ -13,7 +13,7 @@ Start your MySQL server and create a new database named product_data.
 In the project directory, open app.py using a text editor.
 Update the MySQL connection settings in the conn variable (host, user, password).
 Save the changes.
-
+s
 
 Usage
 Start your MySQL server (e.g., using XAMPP).
