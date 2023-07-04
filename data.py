@@ -149,7 +149,7 @@ def get_data_id():
 
         # Close the cursor and connection
         cursor.close()
-        conn.close()
+        
 
         # Return the data as JSON
         return jsonify(result)
